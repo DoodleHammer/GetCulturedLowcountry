@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <corners android:radius="8dip" />
+            <stroke android:width="1dip" android:color="#7ca67c" />
+            <gradient android:angle="-90" android:endColor="#164919" android:startColor="#b2f0b2" />
+        </shape>
+    </item>
+    <item android:state_focused="true">
+        <shape android:shape="rectangle">
+            <corners android:radius="8dip" />
+            <stroke android:width="3dip" android:color="#247a29" />
+            <solid android:color="#Add6ad" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="8dip" />
+            <stroke android:width="1dip" android:color="#247a29" />
+            <gradient android:angle="-90" android:endColor="#247a29" android:startColor="#Add6ad" />
+        </shape>
+    </item>
+</selector><!-- From: file:/C:/Users/Cristian/AndroidStudioProjects/GetCultured/app/src/main/res/drawable-mdpi/mybutton.xml -->

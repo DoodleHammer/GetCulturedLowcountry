@@ -1,0 +1,26 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/simplebackground"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView_header"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#803201"
+        android:padding="5dp"
+        android:text="@string/header_organization"
+        android:textColor="#ffffff"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:dividerHeight="5dp"
+        android:padding="10dp" />
+
+
+</LinearLayout><!-- From: file:/C:/Users/Cristian/AndroidStudioProjects/GetCultured/app/src/main/res/layout/activity_link.xml -->

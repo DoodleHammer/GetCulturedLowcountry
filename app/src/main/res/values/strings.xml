@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Get Cultured</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_drop">Main Menu</string>
+
+    <string name="one_button">Press to Continue</string>
+    <string name="welcome">Welcome: Get Cultured</string>
+    <string name="header_category"> Select a Category</string>
+    <string name="header_organization">Select an Organization</string>
+    <string name="title_activity_description">Wizard Beards</string>
+    <string name="title_activity_linktwo">Museums and Exhibits</string>
+    <string name="title_activity_linkthree">Theaters and Music</string>
+
+    <string name="title_activity_descriptionone">Description</string>
+
+
+    <string name="email">thewizardbeards@gmail.com</string>
+    <string name="email_subject">App Inquiry</string>
+
+    <!-- About App -->
+    <string name="about_us"> The Get Cultured Mobile App concept was originally the by-product of a collaboration between students in the Computational Science and Hospitality Management majors at the University of South Carolina Beaufort (USCB). Computational Science students Cristian Salmeron, Tremaine Farris, and Kenneth Kane took the necessary steps to continue development until the app concept became a reality.\n \n If your organization would like to be featured on this app or if you would like to have an app developed please contact The Wizard Beards using the email address listed below. \n \n This app will be updated periodically. </string>
+    <string name="contact_us">Click to contact The Wizard Beards at:</string>
+
+    <!-- Descriptions -->
+    <string name="string_zero">The mission of the Magical Wizard Beards is to create awe inspiring mobile, web, and a variety of other computer applications with their magic dust and programming skills. You can contact us via telepathy or our email.</string>
+    <string name="string_karis">Karis Gallery is proud to represent American contemporary artists with a wide diversity of styles and mediums.Our goal is to be a showcase for the talented. In painting, sculpture, photography, fine jewelry,glass, pottery and art wearables.</string>
+    <string name="string_morris">Morris and Whiteside Galleries is an American fine art firm specializing in representational paintings and sculpture by the nation’s leading artists. Housed in the historic Red Piano Gallery, South Carolina’s oldest professional art gallery</string>
+    <string name="string_smith">Smith Galleries is a gallery of fine craft, art, jewelry, picture framing, and creative toys for children. Smith Galleries Voted as the Island Packet Reader\'s Choice 2013 \"Best Art Gallery\" And the Hilton Head Monthly Reader\'s Choice 2013 \"Best Art Gallery\"</string>
+    <string name="string_artleague">The Art League of Hilton Head promotes and supports the visual art through exhibitions, education and partnerships for the cultural enhancement of the community and it’s visitors.</string>
+    <string name="string_artcenter">The Arts Center of Coastal Carolina is a showcase for professional and preforming visual arts. They host a variety of acts including musicians, vocalist, artist and more.</string>
+    <string name="string_soba">New shows monthly with original paintings, photography, sculpture and jewelry by local artists. SOBA is a non-profit org established to promote a stimulating environment for the visual arts and assist students and artists with classes and workshops.</string>
+    <string name="string_sandbox">Hoping for some great one-on-one time with your kids this vacation? Looking to take a break from the sun with your little ones? Has the rain got your children going stir-crazy? Then you might want to check out The Sandbox Children’s Museum.</string>
+    <string name="string_coastaldiscovery">The Coastal Discovery Museum is located at the historic Honey Horn property, a 68-acre facility featuring exhibitions, nature trails, marsh-front boardwalks, several gardens, and specimen live oak trees. The Discovery House is home to the Museum’s permanent exhibits with a great introduction to Hilton Head Island’s history and environment.</string>
+    <string name="string_gullah">The Gullah Museum located on Hilton Head Island works on preserving Gullah history, culture and customs. The Gullah Museum offers numerous events throughout the calendar year fit for adults and children alike!</string>
+    <string name="string_heritagelibrary">The Heritage Library Foundation serves as a private reference library and research center that is open to the public. The library offers a wide selection of books, micro-films, manuscripts, periodicals, and maps.</string>
+    <string name="string_penncenter">For more than 150 years, Penn Center has been at the epicenter of African American education, historic preservation and social justice for Gullah Geechee people living in the Sea Islands. Founded in 1862 during the Civil War, the Penn School was one of the first academic schools in the South established to provide a formal education for formerly enslaved West Africans.</string>
+    <string name="string_mayriver">May River theater is located in Bluffton, South Carolina. They put on various seasonal performances and plays great for any age group! For additional information on current shows visit their website.</string>
+    <string name="string_hhdance">The Hilton Head Dance School offers classes from beginner to advanced for locals and visitors alike. The Hilton Head Dance Theater showcases these performances for the public’s delight.</string>
+    <string name="string_mainstreet">Main Street Youth Theater showcases young hopeful talent to the public, doing various showcases depending on the time of year. For a more detailed performance schedule visit their website!</string>
+    <string name="string_shorenotes">The Hilton Head Shore Notes is composed of over thirty women who sing four-part a cappella harmony. A chapter of Sweet Adelines International since 2001, the chorus performs throughout the year for community events, most notably during the Christmas season, when they entertain the residents of retirement homes throughout Hilton Head and Bluffton. </string>
+    <string name="string_hhsymphony">Celebrating their 33rd season, the Hilton Head Symphony Orchestra presents a highly regarded concert series that runs from October through May. For tickets to events go to our website or call our box number listed below.</string>
+    <string name="string_heyward">Our mission is to protect, preserve, and promote the history and cultural heritage of the Town of Bluffton, South Carolina through education, marketing, hands-on preservation of buildings and sites, maintenance of the Caldwell Archives, and Operation of the Heyward House Historic Center. </string>
+    <string name="string_mitchellville">Historic Mitchellville is America’s first post-civil war settlement for freed African American slaves. And it’s located right here in Beaufort County! Come and experience centuries of local history here at Historic Mitchellville!</string>
+    <string name="string_twenty"></string>
+
+    <!-- Addresses -->
+    <string name="add_zero">Click to Navigate to USCB:\n 1 University Boulevard \n Bluffton, SC 29910</string>
+    <string name="add_karis">Click to Navigate:\n1000 William Hilton Parkway \n C4 Village at Wexford \n Hilton Head Island, SC 29928</string>
+    <string name="add_morris">Click to Navigate:\n220 Cordillo Parkway \n Hilton Head Island, SC 29928</string>
+    <string name="add_smith">Click to Navigate:\n1000 William Hilton Parkway \n J11 Village at Wexford \n Hilton Head Island, SC 29928</string>
+    <string name="add_artleague">Click to Navigate:\n14 Shelter Cove Lane \n Hilton Head Island, SC 29928</string>
+    <string name="add_artcenter">Click to Navigate:\n14 Shelter Cove Lane \n Hilton Head Island, SC 29928</string>
+    <string name="add_soba">Click to Navigate:\n6 Church Street\n Bluffton, SC 29910</string>
+    <string name="add_sandbox">Click to Navigate:\n18A Pope Avenue \n Hilton Head Island, SC 29928</string>
+    <string name="add_coastaldiscovery">Click to Navigate:\n70 Honey Horn Drive\nHilton Head Island, SC 29926</string>
+    <string name="add_gullah">Click to Navigate:\n12 Georginanna Drive \n Hilton Head Island, SC 29926</string>
+    <string name="add_heritagelibrary">Click to Navigate:\n852 William Hilton Parkway \n Hilton Head Island, SC 29928</string>
+    <string name="add_penncenter">Click to Navigate:\n16 Penn Center Circle West\n St.Helena Island, SC 29920</string>
+    <string name="add_mayriver">Click to Navigate:\n20 Bridge Street \n Bluffton, SC 29910</string>
+    <string name="add_hhdance">Click to Navigate:\n24 Palmetto Business Park Road \n Hilton Head Isle, SC 29928</string>
+    <string name="add_mainstreet">Click to Navigate:\n3000 Main Street \n Hilton Head Island, SC 29926</string>
+    <string name="add_shorenotes">Click to Navigate:\nIsland Lutheran Church\n 4400 Main Street\nHilton Head Island, SC 29926</string>
+    <string name="add_hhsymphony">Click to Navigate:\n2 Park Lane \n Number 300 \n Hilton Head Island, SC 29928</string>
+    <string name="add_heyward"> Click to Navigate:\n70 Boundary Street \n Bluffton, South Carolina 29910</string>
+    <string name="add_mitchellville"> </string>
+
+    <!-- Phone numbers -->
+    <string name="phone_karis">Click to Call:\n(843)785&#8211;5100</string>
+    <string name="phone_morris">Click to Call:\n(843)842&#8211;4433 </string>
+    <string name="phone_smith">Click to Call:\n(843)842&#8211;2288</string>
+    <string name="phone_artleague">Click to Call:\n(843)842&#8211;5738</string>
+    <string name="phone_artcenter">Click to Call:\n(843)686&#8211;3945</string>
+    <string name="phone_soba">Click to Call:\n(843)757&#8211;6586</string>
+    <string name="phone_sandbox">Click to Call:\n(843)842&#8211;7645</string>
+    <string name="phone_coastaldiscovery">Click to Call:\n(843)689&#8211;6767</string>
+    <string name="phone_gullah">Click to Call:\n(843)684&#8211;0923</string>
+    <string name="phone_heritagelibrary">Click to Call:\n(843)686&#8211;6560</string>
+    <string name="phone_penncenter">Click to Call:\n(843)838&#8211;2432 </string>
+    <string name="phone_mayriver">Click to Call:\n(843)815&#8211;5581</string>
+    <string name="phone_hhdance">Click to Call:\n(843)785&#8211;5477</string>
+    <string name="phone_mainstreet">Click to Call:\n(843)689&#8211;6246</string>
+    <string name="phone_shorenotes">Click to Call:\n(843)681&#8211;3516</string>
+    <string name="phone_hhsymphony">Click to Call:\n(843)842&#8211;2055</string>
+    <string name="phone_heyward">Click to Call:\n(843)757&#8211;6293</string>
+    <string name="phone_mitchellville"></string>
+
+    <!-- Links -->
+    <string name="link_zero">Website: <a href="http://www.uscb.edu/">http://www.uscb.edu/</a></string>
+    <string name="link_karis">Website: <a href="http://karisartgallery.com/">http://karisartgallery.com/</a></string>
+    <string name="link_morris">Website: <a href="http://morriswhiteside.com/">http://morriswhiteside.com/</a></string>
+    <string name="link_smith">Website: <a href="http://www.smithgalleries.com/">http://www.smithgalleries.com/</a></string>
+    <string name="link_artleague">Website: <a href="http://artleaguehhi.com/">http://artleaguehhi.com/</a></string>
+    <string name="link_artcenter">Website: <a href="http://www.artshhi.com/">http://www.artshhi.com/</a></string>
+    <string name="link_soba">Website: <a href="http://www.sobagallery.com/">http://www.sobagallery.com/</a></string>
+    <string name="link_sandbox">Website: <a href="http://www.thesandbox.org/">http://www.thesandbox.org/</a></string>
+    <string name="link_coastaldiscovery">Website: <a href="http://www.coastaldiscovery.org/">http://www.coastaldiscovery.org/</a></string>
+    <string name="link_gullah">Website: <a href="http://www.gullahmuseumhhi.org/">http://www.gullahmuseumhhi.org/</a></string>
+    <string name="link_heritagelibrary">Website: <a href="http://www.heritagelib.org/">http://www.heritagelib.org/</a></string>
+    <string name="link_penncenter">Website: <a href="http://penncenter.com/">http://penncenter.com/</a></string>
+    <string name="link_mayriver">Website: <a href="http://www.mayrivertheatre.com/">http://www.mayrivertheatre.com/</a></string>
+    <string name="link_hhdance">Website: <a href="http://www.hiltonheaddance.com/">http://www.hiltonheaddance.com/</a></string>
+    <string name="link_mainstreet">Website: <a href="http://msyt.org/">http://msyt.org/</a></string>
+    <string name="link_shorenotes">Website: <a href="http://www.hiltonheadshorenotes.com/">http://www.hiltonheadshorenotes.com/</a></string>
+    <string name="link_hhsymphony">Website: <a href="http://www.hhso.org/">http://www.hhso.org/</a></string>
+    <string name="link_heyward">Website: <a href="http://heywardhouse.org/">http://heywardhouse.org/</a></string>
+    <string name="link_mitchellville">Website: <a href="http://www.mitchelvillepreservationproject.com/">www.mitchelvillepreservationproject.com/</a></string>
+
+
+</resources>

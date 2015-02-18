@@ -1,0 +1,2 @@
+C:\Users\Cristian\AndroidStudioProjects\GetCultured\app\build\intermediates\classes\debug
+C:\Users\Cristian\AndroidStudioProjects\GetCultured\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-7ea7aa5f25a2cad43af722faa77029bf76fa6d8c.jar
